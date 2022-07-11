@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeanchristophescheider@gmail.com
+	name = Jean-Christophe Scheider
